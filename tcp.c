@@ -2,7 +2,7 @@
   Copyright (c) 1999 Rafal Wojtczuk <nergal@7bulls.com>. All rights reserved.
   See the file COPYING for license details.
  */
-
+//add something
 #include <config.h>
 #include <sys/types.h>
 #include <stdio.h>
